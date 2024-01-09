@@ -25,4 +25,5 @@ The use of low cost ultrasonic jewellery cleaners operating in the 40khz range i
 - [ ] Test other materials (Ni, Cu, Fe, C)
 - [ ] Test detritus with magnet.
 - [ ] Collect detritus, examine qualities for use in dusty plasmas.
+- [ ] Spin out particles remove water.
 - [ ] Microscopy of detritus.
