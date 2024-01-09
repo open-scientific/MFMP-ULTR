@@ -1,5 +1,5 @@
 # MFMP-ULTR
-Research into ULTR project concept by MFMP
+Research into [ULTR project](http://www.quantumheat.org/index.php/en/home/mfmp-blog/552-ultr-affordable-ultrasonic-driven-transmutation) concept by MFMP
 
 ## Background
 The use of low cost ultrasonic jewellery cleaners operating in the 40khz range in combination with metal foils was found to damage the foil and tear apart. upon inspection evidence of LENR or condensed nuclear matter physics were observed, upon high speed camera capture under microscope focus magneto toroidal activities can be witnessed.
@@ -10,6 +10,7 @@ The use of low cost ultrasonic jewellery cleaners operating in the 40khz range i
 - Detritus spins in vortex paterns.
 - Detritus breaks down into smaller particles over longer period of time.
 - Foil deposit markings that wont rub off (leave foil in solution for X time once finer particles appear).
+- small wire rusting (suspect contaminate).
 - Detritus groups into two distinct sets of particles (Micro foil pieces, Unknown nano particles).
 - Foaming begins, larger bubbles pop like hydrogen when flame introduced.
 - Particles settled into filaments on Bronze Wool wire when left to settle.
@@ -18,7 +19,7 @@ The use of low cost ultrasonic jewellery cleaners operating in the 40khz range i
 
 ### Follow up todo
 
-- [ ] Document Times until differences in detritus/foam occur.
+- [ ] Document Times until differences in detritus/foam/gel occur.
 - [ ] Test Wires (do they break down)
 - [ ] Test Plates (Is the surface changed)
 - [ ] Test other materials (Ni, Cu, Fe, C)
