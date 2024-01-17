@@ -20,10 +20,10 @@ The use of low cost ultrasonic jewellery cleaners operating in the 40khz range i
 ### Follow up todo
 
 - [ ] Document Times until differences in detritus/foam/gel occur.
-- [ ] Test Wires (do they break down)
+- [x] Test Wires (do they break down):: NO they remain intact.
 - [ ] Test Plates (Is the surface changed)
 - [ ] Test other materials (Ni, Cu, Fe, C)
-- [ ] Test detritus with magnet.
+- [x] Test detritus with magnet.:: Nothing attracted.
 - [ ] Collect detritus, examine qualities for use in dusty plasmas.
 - [ ] Spin out particles remove water.
 - [ ] Microscopy of detritus.
